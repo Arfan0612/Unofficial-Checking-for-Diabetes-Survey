@@ -1,7 +1,7 @@
 # Introduction
 Simple checking for diabetes survey to explore basic python concepts.
 
-## mainModule.py
+## python assignment\mainModule.py
 The main module to used control the overall survey
 
 ## symptoms.py
